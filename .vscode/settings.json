@@ -1,0 +1,16 @@
+{
+  "npm.enableScriptExplorer": true,
+  /* Themes */
+  "workbench.iconTheme": "vscode-icons",
+  "workbench.colorTheme": "Night Owl",
+  /* Linters */
+  "editor.formatOnSave": true,
+  "css.validate": false,
+  "less.validate": false,
+  "scss.validate": false,
+  "eslint.validate": ["javascript"],
+  "eslint.format.enable": true,
+  "editor.codeActionsOnSave": {
+    "source.fixAll.eslint": true
+  }
+}
