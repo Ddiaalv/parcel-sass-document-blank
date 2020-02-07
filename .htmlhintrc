@@ -11,5 +11,6 @@
   "title-require": true,
   "alt-require": true,
   "doctype-html5": true,
-  "id-class-ad-disabled": true
+  "id-class-ad-disabled": true,
+  "src-not-empty": true
 }
